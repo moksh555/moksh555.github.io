@@ -1,0 +1,85 @@
+.h1 {
+  background-color: beige;
+}
+
+.m1 {
+  height: 500px;
+  width: 500px;
+  border-radius: 50%;
+}
+
+.h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.p1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.img2 {
+  height: 300px;
+  width: 266px;
+  border-radius: 50%;
+  padding: 5px;
+  margin: 5px;
+}
+
+.icon-square {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
+.svg1 {
+  height: 40px;
+}
+
+.svg2 {
+  padding-left: 0;
+  margin-left: 0;
+  height: 10px;
+}
+
+.ab1 {
+  text-align: justify;
+  background-color: beige;
+}
+
+.back1 {
+  background-image: url("utd.jpg");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.back1:hover {
+  opacity: 1;
+}
+.back2 {
+  background-image: url("pdeu.jpg");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+
+.back2:hover {
+  opacity: 1;
+}
+
+.backh1 {
+  color: rgb(5, 0, 19);
+  font-weight: 900;
+}
+
+.education {
+  background-color: rgba(251, 247, 247, 0.589);
+}
+
+.but1 {
+  height: 40px;
+  width: 100px;
+  background-color: gray;
+  color: white;
+}
